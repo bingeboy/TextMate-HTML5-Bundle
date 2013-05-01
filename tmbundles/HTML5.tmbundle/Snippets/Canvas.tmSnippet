@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript"&gt;
+function drawCanvas()
+
+	{
+var canvas=document.getElementById('myCanvas');
+var ctx=canvas.getContext('2d');
+ctx.fillStyle='#FF0000';
+
+	ctx.fillRect(0,0,80,100);
+
+	}
+&lt;/script&gt;
+...
+&lt;canvas id="myCanvas"&gt;your browser does 
+not support the canvas tag &lt;/canvas&gt;</string>
+	<key>name</key>
+	<string>Canvas</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>canvas</string>
+	<key>uuid</key>
+	<string>306DBCCD-5A0F-4683-919F-8FB2EA9875D2</string>
+</dict>
+</plist>

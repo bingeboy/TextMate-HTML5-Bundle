@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;datagrid&gt;
+ &lt;ol&gt;
+  &lt;li&gt; (datagrid row 0) &lt;/li&gt;
+  &lt;li&gt; (datagrid row 1)
+   &lt;ol style="list-style-type:lower-alpha;"&gt;
+    &lt;li&gt; (datagrid row 1,0) &lt;/li&gt;
+	&lt;li&gt; (datagrid row 1,1) &lt;/li&gt;
+   &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt; (datagrid row 2) &lt;/li&gt;
+ &lt;/ol&gt;
+&lt;/datagrid&gt;</string>
+	<key>name</key>
+	<string>Datagrid</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>datagrid</string>
+	<key>uuid</key>
+	<string>A07142CF-5CC8-4758-86D4-E47FF4D2A1D0</string>
+</dict>
+</plist>

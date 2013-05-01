@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;optgroup label="Swedish Cars"&gt;
+	&lt;option value ="volvo"&gt;Volvo&lt;/option&gt;
+	&lt;option value ="saab"&gt;Saab&lt;/option&gt;
+&lt;/optgroup&gt;</string>
+	<key>name</key>
+	<string>Optgroup</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>optgroup</string>
+	<key>uuid</key>
+	<string>560C2EA7-E3C5-4739-95C8-3E77FD8FBFEA</string>
+</dict>
+</plist>

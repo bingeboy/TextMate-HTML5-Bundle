@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;input id=" " list="idhere" /&gt;
+&lt;datalist id="idhere"&gt;
+	&lt;option value=" "/&gt;
+	&lt;option value=" "/&gt;
+	&lt;option value=" "/	&gt;
+&lt;/datalist&gt;</string>
+	<key>name</key>
+	<string>Datalist</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>datalist</string>
+	<key>uuid</key>
+	<string>81A608CA-9CB4-49E2-9865-9F26D9FD335F</string>
+</dict>
+</plist>

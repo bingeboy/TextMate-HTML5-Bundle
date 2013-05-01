@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;object id="Slider1" width="100" height="50"&gt;
+  &lt;param name="BorderStyle" value="1" /&gt;
+  &lt;param name="MousePointer" value="0" /&gt;
+  &lt;param name="Enabled" value="1" /&gt;
+  &lt;param name="Min" value="0" /&gt;
+  &lt;param name="Max" value="10" /&gt;
+&lt;/object&gt;</string>
+	<key>name</key>
+	<string>Object</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>object</string>
+	<key>uuid</key>
+	<string>92B2674F-0B71-4D2D-B227-6E581BC3D7CC</string>
+</dict>
+</plist>

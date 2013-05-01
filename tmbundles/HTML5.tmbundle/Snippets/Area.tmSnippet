@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>  &lt;area shape ="circle" coords ="0,0,0,0"
+  href ="link.html" target =" "
+  alt="Title Here" /&gt;</string>
+	<key>name</key>
+	<string>Area</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>Area</string>
+	<key>uuid</key>
+	<string>763E0ED1-885F-4FF3-91B0-E2BF5FE8A082</string>
+</dict>
+</plist>

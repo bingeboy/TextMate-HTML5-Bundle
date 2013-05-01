@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;figure&gt;
+	&lt;legend&gt;Credit: Media Inc., 2007&lt;/legend&gt;
+	&lt;img src="smith.jpg" alt="Photo: J. Smith" /&gt;
+&lt;/figure&gt;</string>
+	<key>name</key>
+	<string>Figure</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>figure</string>
+	<key>uuid</key>
+	<string>7D6BF331-65F7-4FEC-912D-CEEEFA320DC3</string>
+</dict>
+</plist>

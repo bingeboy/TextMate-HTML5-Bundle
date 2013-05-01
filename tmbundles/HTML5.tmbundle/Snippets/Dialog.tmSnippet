@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;dialog&gt;
+	&lt;dt&gt;Teacher&lt;/dt&gt;
+	&lt;dd&gt;What is 2+2&lt;/dd&gt;
+	&lt;dt&gt;Student&lt;/dt&gt;
+	&lt;dd&gt;4&lt;/dd&gt;
+	&lt;dt&gt;Teacher&lt;/dt&gt;
+	&lt;dd&gt;Correct!&lt;/dd&gt;
+&lt;/dialog&gt;</string>
+	<key>name</key>
+	<string>Dialog</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>dialog</string>
+	<key>uuid</key>
+	<string>5B075430-6386-4005-AFAD-965BCAF43990</string>
+</dict>
+</plist>

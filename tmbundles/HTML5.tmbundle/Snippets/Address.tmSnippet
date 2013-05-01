@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;address&gt;
+Author of this document:&lt;br /&gt;
+&lt;a href="mailto:donald@disneyland.com"&gt;Donald Duck&lt;/a&gt;
+&lt;/address&gt; </string>
+	<key>name</key>
+	<string>Address</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>address</string>
+	<key>uuid</key>
+	<string>DBE4A2CE-EAED-4BA2-8C80-8E805752845E</string>
+</dict>
+</plist>

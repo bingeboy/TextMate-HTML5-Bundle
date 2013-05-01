@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;datatemplate&gt;
+    &lt;rule condition="items" mode="details"&gt;
+        &lt;nest id="item_filter" mode="details" filter="item[categories~='fruit']"&gt;
+    &lt;/rule&gt;
+&lt;/datatemplate&gt;</string>
+	<key>name</key>
+	<string>Datatemplate</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>dtemplate</string>
+	<key>uuid</key>
+	<string>E4A85A2A-A1D9-4804-BD2C-2E7DD24F498E</string>
+</dict>
+</plist>
